@@ -71,19 +71,18 @@ With Service Providers: We may share Your personal information with Service Prov
 With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
 
 
-# Disclosure of Your Personal Data
+## Disclosure of Your Personal Data
 
-Law enforcement
+- Law enforcement : 
 Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-Other legal requirements
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
-
-Comply with a legal obligation
-Prevent or investigate possible wrongdoing in connection with the application
-Protect the personal safety of Users of the application or the public
-Protect against legal liability
-Security of your Personal Data
+- Other legal requirements : 
+We may disclose Your Personal Data in the good faith belief that such action is necessary to:
+Comply with a legal obligation,
+Prevent or investigate possible wrongdoing in connection with the application,
+Protect the personal safety of Users of the application or the public,
+Protect against legal liability,
+Security of your Personal Data,
 The security of your Personal Data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 
