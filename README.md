@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-Last updated: October 28, 2022
+Last updated: October 29, 2022
 
 This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use the application and tells you about your privacy rights and how the law protects you.
 
@@ -67,14 +67,14 @@ To manage your requests: To attend and manage Your requests to us.
 
 We may share Your personal information in the following situations:
 
-With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
+With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our application, to contact You.
 With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
 
 
 ## Disclosure of Your Personal Data
 
 - Law enforcement : 
-Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities
 
 - Other legal requirements : 
 We may disclose Your Personal Data in the good faith belief that such action is necessary to:
@@ -85,6 +85,8 @@ Protect against legal liability,
 Security of your Personal Data,
 The security of your Personal Data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
+- You could ask for the deletion of your personal data stored by e-mail.
+
 
 ## Children's Privacy
 
@@ -92,7 +94,7 @@ Our application does not address anyone under the age of 13. We do not knowingly
 
 
 ## Links to Other Websites
-Our Service may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+Our application may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
